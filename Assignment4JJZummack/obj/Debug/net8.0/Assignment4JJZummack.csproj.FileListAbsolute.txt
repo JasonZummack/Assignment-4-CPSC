@@ -1,0 +1,5 @@
+C:\CPSC1012\dotnet8-demos\Assignment4JJZummack\obj\Debug\net8.0\Assignment4JJZummack.GeneratedMSBuildEditorConfig.editorconfig
+C:\CPSC1012\dotnet8-demos\Assignment4JJZummack\obj\Debug\net8.0\Assignment4JJZummack.AssemblyInfoInputs.cache
+C:\CPSC1012\dotnet8-demos\Assignment4JJZummack\obj\Debug\net8.0\Assignment4JJZummack.AssemblyInfo.cs
+C:\CPSC1012\dotnet8-demos\Assignment4JJZummack\obj\Debug\net8.0\Assignment4JJZummack.csproj.CoreCompileInputs.cache
+C:\CPSC1012\dotnet8-demos\Assignment4JJZummack\obj\Debug\net8.0\Assignment4JJZummack.sourcelink.json
